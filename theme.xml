@@ -430,4 +430,16 @@
 			<path>./_art/launch.wav</path>
 		</sound>
 	</view>
+  <view name="system, gamelist">
+    <systemstatus name="systemStatus">
+      <pos>0.985 0.014</pos>
+      <height>0.035</height>
+      <entries>battery</entries>
+      <color>FFFFFFFF</color>
+      <backgroundColor>00000066</backgroundColor>
+      <backgroundHorizontalPadding>0.004 0.005</backgroundHorizontalPadding>
+      <backgroundVerticalPadding>0.004 0.004</backgroundVerticalPadding>
+      <backgroundCornerRadius>0.003</backgroundCornerRadius>
+    </systemstatus>
+  </view>
 </theme>
