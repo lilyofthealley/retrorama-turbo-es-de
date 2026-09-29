@@ -434,7 +434,6 @@
     <systemstatus name="systemStatus">
       <pos>0.985 0.014</pos>
       <height>0.035</height>
-      <entries>battery</entries>
       <color>FFFFFFFF</color>
       <backgroundColor>00000066</backgroundColor>
       <backgroundHorizontalPadding>0.004 0.005</backgroundHorizontalPadding>
